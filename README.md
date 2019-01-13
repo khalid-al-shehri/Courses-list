@@ -16,5 +16,3 @@ Simple project for react js "Courses List"
 <img src="/screens/3.png">
 <br />
 <img src="/screens/4.png">
-<br />
-<img src="/screens/5.png">
